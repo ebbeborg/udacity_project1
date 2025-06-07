@@ -1,10 +1,10 @@
 site_name: project-1
-repo_url:
+repo_url: https://github.com/ebbeborg/udacity_project1
 site_url:
 site_description:
 site_author: Ebbe Borg
 edit_uri: edit/main/docs/
-repo_name: fpgmaas/project-1
+repo_name: ebbeborg/udacity_project1
 copyright: Maintained by
 
 nav:
@@ -37,13 +37,6 @@ theme:
         name: Switch to light mode
   icon:
     repo: fontawesome/brands/github
-
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link:
-    - icon: fontawesome/brands/python
-      link:
 
 markdown_extensions:
   - toc:
