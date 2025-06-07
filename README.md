@@ -1,16 +1,5 @@
 # project-1
 
-[![Release](https://img.shields.io/github/v/release/fpgmaas/project-1)](https://img.shields.io/github/v/release/fpgmaas/project-1)
-[![Build status](https://img.shields.io/github/actions/workflow/status/fpgmaas/project-1/main.yml?branch=main)](https://github.com/fpgmaas/project-1/actions/workflows/main.yml?query=branch%3Amain)
-[![codecov](https://codecov.io/gh/fpgmaas/project-1/branch/main/graph/badge.svg)](https://codecov.io/gh/fpgmaas/project-1)
-[![Commit activity](https://img.shields.io/github/commit-activity/m/fpgmaas/project-1)](https://img.shields.io/github/commit-activity/m/fpgmaas/project-1)
-[![License](https://img.shields.io/github/license/fpgmaas/project-1)](https://img.shields.io/github/license/fpgmaas/project-1)
-
-This is a template repository for Python projects that use uv for their dependency management.
-
-- **Github repository**: <https://github.com/fpgmaas/project-1/>
-- **Documentation** <https://fpgmaas.github.io/project-1/>
-
 ## Getting started with your project
 
 ### 1. Create a New Repository
