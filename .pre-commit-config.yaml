@@ -25,5 +25,4 @@ repos:
     rev: "v4.8.2"
     hooks:
       - id: commitizen
-        stages: [pre-push]
-        pass_filenames: false
+        stages: [commit-msg]
