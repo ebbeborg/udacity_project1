@@ -26,3 +26,4 @@ repos:
     hooks:
       - id: commitizen
         stages: [pre-push]
+        pass_filenames: false
